@@ -27,27 +27,26 @@ def division(numero1, numero2):
     return (num1 / deno), (num2 / deno)
 
 
-def modulo(numero1, numero2):
+def modulo(numero1):
     mod1 = ((numero1[0] ** 2) + (numero1[1] ** 2)) ** (1 / 2)
-    mod2 = ((numero2[0] ** 2) + (numero2[1] ** 2)) ** (1 / 2)
-    return str(mod1) + '\n' + str(mod2)
+
+    return mod1
 
 
-def conjugado(numero1, numero2):
+def conjugado(numero1):
     con1 = (-1 * numero1[1])
-    con2 = (-1 * numero2[1])
-    return (str(numero1[0]) + "," + str(con1)) + '\n' + (str(numero2[0]) + "," + str(con2))
+
+    return (numero1[0],con1)
 
 
-def polar(numero1, numero2):
+def polar(numero1):
     po11 = ((numero1[0] ** 2) + (numero1[1] ** 2)) ** (1 / 2)
     po12 = math.atan(numero1[1] / numero1[0])
-    po21 = ((numero2[0] ** 2) + (numero2[1] ** 2)) ** (1 / 2)
-    po22 = math.atan(numero2[1] / numero2[0])
-    return ((str(po11) + "," + str(po12))) + '\n' + (str(po11) + "," + str(po22))
+    
+    return (po11,po12) 
 
 
-def fase(numero1, numero2):
+def fase(numero1):
     if (numero1[0] < 0 and numero1[1] > 0):
         fas1 = math.pi + (math.atan(numero1[1] / numero1[0]))
     elif (numero1[0] < 0 and numero1[1] < 0):
@@ -55,11 +54,6 @@ def fase(numero1, numero2):
     else:
         fas1 = (math.atan(numero1[1] / numero1[0]))
 
-    if (numero2[0] < 0 and numero2[1] > 0):
-        fas2 = math.pi + (math.atan(numero2[1] / numero2[0]))
-    elif (numero2[0] < 0 and numero2[1] < 0):
-        fas2 = (math.atan(numero2[1] / numero2[0])) - math.pi
-    else:
-        fas2 = (math.atan(numero2[1] / numero2[0]))
+    
 
-    return str(fas1) + '\n' + str(fas2)
+    return fas1
