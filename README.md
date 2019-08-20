@@ -3,15 +3,15 @@ Calculadora de numeros Complejos con operaciones como:
 Suma
 Producto
 Resta
-División
-Módulo
+Division
+Modulo
 Conjugado
 Conversión entre representaciones polar y cartesiano
 Retornar la fase de un número complejo.
 
-En la suma,resta,priducto y division: 
+En la suma,resta,producto y division: 
 Los DOS numeros complejos se dan en tuplas (a,b) siendo a la parte real y b la parte imaginaria.
-y la respuesta tambien se da en tuplas.
+y la respuesta tambien se da en tupla.
 
 Calcula la suma y resta de la siguiente forma:
 (a+b)+(c+d)=(a+c),(b,c), y asi con la resta.
@@ -23,9 +23,9 @@ c1=(0,1),
 c2=(0,1).
 El producto seria igual a: (0x0-1X1),(0x1+1x0)=(-1,0).
 
-El Módulo.Conjugado,Conversión entre representaciones polar y cartesiano y Retornar la fase de un número complejo, se calcula a un solo numero.
+El Módulo,Conjugado,Conversión entre representaciones polar y cartesiano y Retornar la fase de un número complejo, se calcula a un solo numero.
 
-Construido con 🛠️
+Construido con:
 Python
 
 Autor:
