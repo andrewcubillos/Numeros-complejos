@@ -9,6 +9,7 @@ Conjugado
 Conversión entre representaciones polar y cartesiano
 Retornar la fase de un número complejo.
 
+En la suma,resta,priducto y division: 
 Los DOS numeros complejos se dan en tuplas (a,b) siendo a la parte real y b la parte imaginaria.
 y la respuesta tambien se da en tuplas.
 
@@ -22,14 +23,7 @@ c1=(0,1),
 c2=(0,1).
 El producto seria igual a: (0x0-1X1),(0x1+1x0)=(-1,0).
 
-Tambien calcula la division por tuplas.
-
-Las operaciones como:
-Módulo
-Conjugado
-Conversión entre representaciones polar y cartesiano
-Retornar la fase de un número complejo,
-se le aplican a los dos numeros.
+El Módulo.Conjugado,Conversión entre representaciones polar y cartesiano y Retornar la fase de un número complejo, se calcula a un solo numero.
 
 Construido con 🛠️
 Python
