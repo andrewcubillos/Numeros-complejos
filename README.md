@@ -9,6 +9,8 @@ Conjugado
 Conversión entre representaciones polar y cartesiano
 Retornar la fase de un número complejo.
 
+Instalacion: Descargando el codigo.
+
 En la suma,resta,producto y division: 
 Los DOS numeros complejos se dan en tuplas (a,b) siendo a la parte real y b la parte imaginaria.
 y la respuesta tambien se da en tupla.
