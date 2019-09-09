@@ -18,7 +18,7 @@ Transforma la forma cartesiana en polar.
 **Retornar la fase de un número complejo**
 Con esta funcion se sabe el angulo de un numero complejo, y dependiendo del angulo y su cuadrante se le suma 180 grados o se le restan, para que la respuesta este correcta.
 
-#Pre-requisitos 📋
+# Pre-requisitos 📋
 ![GitHub Logo](https://www.python.org/static/img/python-logo@2x.png)
 
 Para poder usar este programa es necesario tener instalado python, si no se tiene, la descarga e instalación es como sigue:
@@ -28,7 +28,7 @@ Primero descargamos el programa de la página oficial:
 Cuando termine de descargar hay que proceder a instalarlo:
 ![GitHub Logo](https://www.wikihow.com/images_en/thumb/f/fb/Install-Python-Step-4-Version-2.jpg/v4-760px-Install-Python-Step-4-Version-2.jpg)
 
- #Instalación 🔧
+ # Instalación 🔧
 Primero: 
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69874998_750459472059681_3913524228170711040_n.png?_nc_cat=109&_nc_oc=AQnAHS7ixOACxFw9VZIuFwoJKytHypC0c9lCVCRXGIho84rLNJiPg55F4K2wzo2JtM4&_nc_ht=scontent-bog1-1.xx&oh=a5c49974e0f359c923370686c6d86f6e&oe=5DC80CBF) 
 
@@ -44,7 +44,7 @@ Buscamos el archivo y lo abrimos
 y listo!.
 
 
-#Uso 
+# Uso 
 Puede ejecutar el archivo de Numeros-complejos o puede desde el IDLE abrir el archivod de prueba y modificar los valores.
 
 #Ejecutando las pruebas ⚙️
@@ -52,11 +52,11 @@ Puede ejecutar el archivo de Numeros-complejos o puede desde el IDLE abrir el ar
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69773703_2432484910139168_5883054491900575744_n.png?_nc_cat=100&_nc_oc=AQl53Lqk2ZTIVfD6QVS7hwNJs4tE0STeO5wBxaVmE1VhP_D5MndQA677TlAVHFLE9Wk&_nc_ht=scontent-bog1-1.xx&oh=6b3e2324c67b771213f80e288e7c58b9&oe=5DF58CD9) 
 
 
-#Ejemplo:
+# Ejemplo:
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69880683_2011971865569866_3687039933953867776_n.png?_nc_cat=105&_nc_oc=AQnnqRMtNqEkCWwHTynE4IOueH8wqNQYmyqJCneOJgNSQ_eMZHM-dwq11hMnF8lKLsw&_nc_ht=scontent-bog1-1.xx&oh=d75a4d942889c75dace6abae43670bc3&oe=5DF98FB4)
 
 
 
-#Autor ✒️
+# Autor ✒️
 Andres Felipe Cubillos Hurtado
 
