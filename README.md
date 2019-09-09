@@ -48,7 +48,7 @@ y listo!.
 Puede ejecutar el archivo de Numeros-complejos o puede desde el IDLE abrir el archivod de prueba y modificar los valores.
 
 #Ejecutando las pruebas ⚙️
-![myimage-alt-tag]https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/70926500_469163327146808_6120844145062838272_n.png?_nc_cat=105&_nc_oc=AQloY8N7Xz-X2UzCsMmtQKZOKcv1T09LppUqu65nbEhk5LanQx1gWgzdUOCwFMK0kbg&_nc_ht=scontent-bog1-1.xx&oh=4486c1a09897e9d8c0556462cdab6cf3&oe=5E1527A1) 
+![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/70926500_469163327146808_6120844145062838272_n.png?_nc_cat=105&_nc_oc=AQloY8N7Xz-X2UzCsMmtQKZOKcv1T09LppUqu65nbEhk5LanQx1gWgzdUOCwFMK0kbg&_nc_ht=scontent-bog1-1.xx&oh=4486c1a09897e9d8c0556462cdab6cf3&oe=5E1527A1) 
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/69773703_2432484910139168_5883054491900575744_n.png?_nc_cat=100&_nc_oc=AQl53Lqk2ZTIVfD6QVS7hwNJs4tE0STeO5wBxaVmE1VhP_D5MndQA677TlAVHFLE9Wk&_nc_ht=scontent-bog1-1.xx&oh=6b3e2324c67b771213f80e288e7c58b9&oe=5DF58CD9) 
 
 
